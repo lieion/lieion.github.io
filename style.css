@@ -1,0 +1,34 @@
+/*CSSCode*/
+.container{
+    width: 1000px;
+}
+.picture-div{
+    display: flex;
+    justify-content: center;
+}
+.carouse-picture{
+    width: 70%;
+    height: 70%;
+    text-align: center;
+}
+.interest-title{
+    font-weight: bold;
+    font-size: 20px
+}
+.pic-title{
+    text-align: center;
+    font-size: 30px;
+    font-weight:bold;
+}
+#nav-button{
+    margin-right: 5%;
+}
+.pa_info{
+    font-style: normal;
+    font-size: 30px;
+}
+.main-title{
+    font-size: 30px;
+    font-weight: bold;
+    font-family:initial;
+}
